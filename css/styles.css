@@ -137,7 +137,10 @@ li .address-list-link {
   margin-right: 305px;
 }
 
-.header .navigation-list-item:not(:last-child),
+.header .navigation-list-item:not(:last-child) {
+  margin-right: 50px;
+}
+
 .header .address-list-item:not(:last-child) {
   margin-right: 30px;
 }
